@@ -1,0 +1,19 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.odd.special {
+font-size: 24px;
+}
+
+#divone {
+    color: blue;
+    font-size: 36px;
+}
+
+#divtwo {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
